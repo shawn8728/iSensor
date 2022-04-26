@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91097895130",
+    "firebase_url": "https://sensor-d10f9.firebaseio.com",
+    "project_id": "sensor-d10f9",
+    "storage_bucket": "sensor-d10f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91097895130:android:169bcf9dd2a822fb21d5e3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91097895130-7ghanftlqc8kjjds8km7p315g804dmq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "a74bc8c54c088df219f1aa03912c322adff7cef7"
+          }
+        },
+        {
+          "client_id": "91097895130-pc4d7q4hksj5hrli7ehv5qaa3sjt29kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOlJMZq7tr1EGi8vaXcSwLG6sWYX5-Nnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91097895130-pc4d7q4hksj5hrli7ehv5qaa3sjt29kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
